@@ -1,0 +1,27 @@
+
+.tab {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+  background: orchid;
+  margin-top: 756px;
+  max-width: 976px;
+  height: 100%;
+  min-height: 500px;
+  text-align: center;
+}
+
+.tab p {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px ;
+  box-shadow: 0 0 10px pink;
+  border-radius: 8px;
+  text-align: justify;
+  font-family: poppins;
+
+}
+.tabs {
+  display: flex;
+  justify-content: center;
+}

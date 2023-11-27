@@ -1,0 +1,16 @@
+body {
+  background: pink;
+}
+
+.title  {
+   font-family: Bebas Neue;
+   color: orchid;
+   text-align: center;
+   padding: 20px
+}
+
+h3 {
+  font-family: Bebas Neue;
+  font-size: 26px;
+  font-weight: lighter;
+}

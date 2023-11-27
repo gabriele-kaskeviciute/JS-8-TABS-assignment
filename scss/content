@@ -1,0 +1,28 @@
+.contentTitle {
+  color: black;
+  font-family: Bebas Neue;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+.book {
+  height: 400px;
+}
+
+
+.chess {
+  height: 750px;
+}
+
+img {
+  padding-top: 10px;
+}
+
+.hobby-img {
+  height: 500px;
+  margin-left: 110px;
+}
+.camus {
+  padding-left: 42px;
+}
